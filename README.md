@@ -1,16 +1,21 @@
-## Hi there 👋
+## Prazer, Bethânia,
 
-<!--
-**bethania2155/bethania2155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 Estudando python
+- 😄 Pronomes: me identifico com qualquer pronome
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>           
+
+![Python Badge](https://shields.io)
+
+</div> 
+
+<div>  
+
+[![LinkedIn](https://shields.io)]([https://linkedin.com](https://www.linkedin.com/in/beth%C3%A2nia-d-b18a24413/))
+
+   [![Gmail](https://shields.io)](mailto:bethaniavalgas@gmail.com)
+
+   </div> 
+      
+    
