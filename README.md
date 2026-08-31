@@ -3,6 +3,7 @@
 
 - 🌱 Estudando python
 - 😄 Pronomes: me identifico com qualquer pronome
+- 📚 bibliotecária migrando de área
 
 <div>           
 
